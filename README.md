@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tricheboars
-- 👀 I’m interested in operating system design, management, configuration, and automation.
-- 🌱 I’m currently learning powershell, bash, terraform, ansible, AWS and python.
+- 👀 I’m interested in operating system design, management, configuration, AI and automation.
+- 🌱 I’m currently learning powershell, bash, terraform, ansible, AWS, Azure, GO, and python.
 - 💞️ I work in an enterprise enviroment. This is my homelab stuff that isnt on my own self hosted gitea.
